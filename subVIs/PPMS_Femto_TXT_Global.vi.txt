@@ -1,0 +1,2 @@
+1 - DDPCA Gain (V/A)	2 - DDPCA Gain (V/A)	3 - DLPVA Gain (dB)	3 - Gain_1	3 - Gain_2	3 - AC/DC coupling	3 - filter	4 - DLPVA Gain (dB)	4 - Gain_1	4 - Gain_2	4 - AC/DC coupling	4 - filter
+10000	10000	20	1	1	1	1	20	1	1	1	0
